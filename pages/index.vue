@@ -6,7 +6,7 @@
         new-Nuxt
       </h1>
       <h2 class="subtitle">
-        新版本nuxt部署到heroku
+        新版本nuxt部署到heroku111
       </h2>
       <div class="links">
         <a

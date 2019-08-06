@@ -1,0 +1,17 @@
+{
+  "name": "new-Nuxt",
+  "version": "1.0.0",
+  "description": "新版本nuxt部署到heroku",
+  "author": "sjzjams",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
